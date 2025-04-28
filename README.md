@@ -1,17 +1,17 @@
 
+# Linear-Kinematics-Analysis-Kinovea
+>  **Capturing motion, revealing insights, mastering biomechanics!**
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/be138a3b-7b05-4822-b641-e3e7d44afd2d" width="180" alt="Motion Analysis Icon">
+  <img src="https://github.com/user-attachments/assets/be138a3b-7b05-4822-b641-e3e7d44afd2d" width="1800" alt="Motion Analysis Icon">
 </p>
 
-# Linear-Kinematics-Analysis-Kinovea
 
-> 🎬 **Capturing motion, revealing insights, mastering biomechanics!**
 
 ---
 
-## 🎯 Project Overview
+##  Project Overview
 We analyzed the **linear kinematics** of a challenging human motion sequence — including a **deep squat**, a **box jump**, and a **return movement** — using **Kinovea** software.
 
  Tracked joints: **Hip** & **Knee**  
@@ -51,7 +51,7 @@ https://github.com/user-attachments/assets/c1c05dc4-d22e-4197-a588-9f914c5feec9
 - Data extraction and visualization.
 - Team collaboration and professional reporting.
 
-## 👥 Meet Our Team
+##  Meet Our Team
 
 Proudly developed by:
 - [Amat Alrahman Sayed](https://www.linkedin.com/in/amat-alrahman-sayed-871712349)
